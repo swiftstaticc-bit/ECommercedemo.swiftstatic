@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Environment variables – NEVER commit real secrets
+.env
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+npm-debug.log*
